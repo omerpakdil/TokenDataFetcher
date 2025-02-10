@@ -36,8 +36,7 @@ Token Data Fetcher is a Node.js library that fetches real-time token data from v
 
 ## Test
 
-\`\`\`bash
+   ```bash
 cd src/__tests__/
 node test.js
-\`\`\`
-
+```
