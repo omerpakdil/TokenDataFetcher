@@ -15,10 +15,7 @@ Token Data Fetcher is a Node.js library that fetches real-time token data from v
    npm install
    ```
 
-3. Create the environment configuration by copying the example file:
-   ```bash
-   cp .env.example .env
-   ```
+3. Create .env file
 
 4. Update the `.env` file with your API keys and RPC URLs:
    ```env
